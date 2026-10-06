@@ -1,0 +1,6 @@
+id,nombre,descripcion,categoria,imagen,url,boton,activo,orden,destacado
+P001,ENLACE Las Partidas,"Catálogo digital para descubrir negocios, productos y servicios de la zona.",Catálogo digital,proyectos/imagenes/P001.png,https://enlace-partidas.vercel.app/,Ver proyecto,true,1,true
+P002,Mi Escandón,Directorio digital para descubrir negocios y servicios de la colonia.,Directorio digital,proyectos/imagenes/P002.png,https://miescandon.vercel.app/,Ver proyecto,true,2,true
+P003,RFS,Aplicación de pedidos para restaurantes y negocios de comida.,Pedidos,proyectos/imagenes/P003.png,https://rfs-app-alpha.vercel.app/,Ver proyecto,true,3,true
+P004,Podólogo,Sitio web profesional para servicios podológicos y cursos especializados.,Servicios y cursos,proyectos/imagenes/P004.png,https://lizpodologa.vercel.app/,Ver proyecto,true,4,true
+P005,Lash Beauty,"Sitio web para servicios de pestañas, cejas y belleza.",Servicios de belleza,proyectos/imagenes/P005.png,https://appmuestra.vercel.app/,Ver proyecto,true,5,true
